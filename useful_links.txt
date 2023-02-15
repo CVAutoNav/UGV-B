@@ -1,0 +1,38 @@
+Jackal Tutorials:
+https://docs.clearpathrobotics.com/docs/robots/outdoor_robots/jackal/tutorials_jackal#driving-jackal
+
+ros melodic + Real sense SDK installation: 
+https://www.mouser.com/applications/getting-started-with-realsense-d455/
+
+orb-slam3 installation - 
+https://github.com/UZ-SLAMLab/ORB_SLAM3
+
+opencv 4.4 installation -
+https://dev.to/swervin/how-to-install-opencv-4-2-0-on-ubuntu-18-04-3i7l
+
+ORB-SLAM3 ram issue - 
+https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/566
+
+Realsense-installation with ubuntu 4.9:
+https://dev.intelrealsense.com/docs/nvidia-jetson-tx2-installation
+
+Communicating with the ROS master with LAN cable:
+https://www.youtube.com/watch?v=YMG6DWEqv5g
+
+Wireless Communication setup between Nano and UGV:
+https://clearpathrobotics.com/blog/2019/06/jackal-ugv-taking-it-for-a-spin/
+
+RTABMAP:
+http://wiki.ros.org/rtabmap_ros
+
+ROS cheatsheet:
+http://bit.ly/1RCVMaB
+
+Gazeebo issue:
+https://answers.gazebosim.org//question/13214/virtual-machine-not-launching-gazebo/
+
+Getting started with ROS and Python:
+https://www.youtube.com/watch?v=yqYvMEYJoTk&list=PLAjUtIp46jDcQb-MgFLpGqskm9iB5xfoP&index=4
+
+Interacting with Gazebo using python:
+https://www.youtube.com/watch?v=2WBDRbYmE7A&list=PL8dDSKArO2-m7hAjOgqL5uV75aZW6cqE5&index=9&t=57s

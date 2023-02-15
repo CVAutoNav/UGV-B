@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/NCSU/ugv_b/python_catkin/devel
+
+Name: ugv_b
+Description: Description of ugv_b
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

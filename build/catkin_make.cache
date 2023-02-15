@@ -1,0 +1,2 @@
+ugv_b
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/NCSU/ugv_b/python_catkin/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/NCSU/ugv_b/python_catkin/install -G Unix Makefiles
