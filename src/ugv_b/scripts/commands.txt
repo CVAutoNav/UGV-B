@@ -1,0 +1,27 @@
+Launching gazebo for jackal:
+roslaunch jackal_gazebo jackal_world.launch
+
+Setting low graphics for Gazebo to run:
+export SVGA_VGPU10=0
+
+Moving jackal:
+rostopic pub /husky_velocity_controller/cmd_vel geometry_msgs/Twist "linear:
+        x: 0.5
+        y: 0.0
+        z: 0.0
+angular:
+        x: 0.0
+        y: 0.0
+        z: 0.0" -r 10
+
+
+Installation of rospy and geometric-msg:
+conda install -c conda-forge ros-rospy
+conda install -c conda-forge ros-geometry-msgs
+
+
+Running python script to control jackal:
+catkin_make (in catkin workspace)
+source devel/setup.sh
+sudo bash
+rosrun ugv_b jackal_control.py

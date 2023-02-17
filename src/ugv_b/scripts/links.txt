@@ -31,8 +31,3 @@ http://bit.ly/1RCVMaB
 Gazeebo issue:
 https://answers.gazebosim.org//question/13214/virtual-machine-not-launching-gazebo/
 
-Getting started with ROS and Python:
-https://www.youtube.com/watch?v=yqYvMEYJoTk&list=PLAjUtIp46jDcQb-MgFLpGqskm9iB5xfoP&index=4
-
-Interacting with Gazebo using python:
-https://www.youtube.com/watch?v=2WBDRbYmE7A&list=PL8dDSKArO2-m7hAjOgqL5uV75aZW6cqE5&index=9&t=57s
