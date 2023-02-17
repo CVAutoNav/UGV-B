@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 
 import rospy
-import cv2
 import keyboard
 from geometry_msgs.msg import Twist
 
