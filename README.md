@@ -25,6 +25,8 @@ The UGV team worked on the following:
 
 A small demo of the project illustrating the autonmous navigation can be seen below:
 
-<video width="600" height="400" controls>
-  <source src="assets/Navigation and communication demo.mp4" type="video/mp4">
-</video>
+<!-- <video width="600" height="400" controls>
+  <source src="https://drive.google.com/file/d/12FRitX0Se0sVD5q179EShb6cWcgBYwk7/preview" type="video/mp4">
+</video> -->
+
+[![Navigation demo](https://drive.google.com/file/d/12FRitX0Se0sVD5q179EShb6cWcgBYwk7)](https://drive.google.com/file/d/12FRitX0Se0sVD5q179EShb6cWcgBYwk7/view)
