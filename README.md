@@ -23,10 +23,8 @@ The UGV team worked on the following:
 <img src="assets\flow.png" alt="Communication with Kinova arm" width="600" height="400">
 
 
-
 A small demo of the project illustrating the autonmous navigation can be seen below:
 
 <video width="600" height="400" controls>
-  <source src="assets\Navigation and communication demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="assets/Navigation and communication demo.mp4" type="video/mp4">
 </video>
